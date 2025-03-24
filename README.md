@@ -7,4 +7,4 @@
 - [TED and LLM](https://github.com/roberto-nai/TED-OD-LLM)
 
 **Data**  
-[https://bit.ly/3xQelsU](https://bit.ly/3xQelsU)
+- [https://bit.ly/3xQelsU](https://bit.ly/3xQelsU)
